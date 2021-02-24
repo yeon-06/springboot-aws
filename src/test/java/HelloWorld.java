@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-		System.out.println("push test for Jenkins!");
+		System.out.println("push test for Jenkins! 2");
 	}
 }
