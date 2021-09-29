@@ -1,5 +1,5 @@
 # 프로젝트 흐름
-![image](https://blog.kakaocdn.net/dn/zkhLk/btqZ9Ck0oK8/BGx1PLEFSlFqf7fRRyIu7k/img.png)
+![image](https://blog.kakaocdn.net/dn/YsoF8/btq0ulDzW7m/Giuuy8FhFQgf4uLWJbyikk/img.png)
 
 # 목차
 * Proejct 시작
