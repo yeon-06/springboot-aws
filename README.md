@@ -1,7 +1,5 @@
-
-# 클론코딩 후기   
-![image](https://user-images.githubusercontent.com/53105735/134643684-a1aa06af-aecd-4a45-be5c-ed15365fd355.png)
-  => [https://yeonyeon.tistory.com/138](https://yeonyeon.tistory.com/138)
+# 프로젝트 흐름
+![image](https://blog.kakaocdn.net/dn/zkhLk/btqZ9Ck0oK8/BGx1PLEFSlFqf7fRRyIu7k/img.png)
 
 # 목차
 * Proejct 시작
